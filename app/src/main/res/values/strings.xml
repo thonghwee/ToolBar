@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_call">Call</string>
+    <string name="message">Here you are the Setting Page</string>
+</resources>
